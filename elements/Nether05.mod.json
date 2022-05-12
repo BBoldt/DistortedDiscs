@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_05",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Firewalker",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_05"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

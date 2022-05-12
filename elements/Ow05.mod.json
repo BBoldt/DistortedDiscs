@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_05",
+    "name": "Distorted Disc",
+    "description": "BBoldt - Deflective",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_05"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_03",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Doo Wop Ghosts",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_03"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

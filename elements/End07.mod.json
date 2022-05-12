@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_07",
+    "name": "Interdimensional Distorted Disc",
+    "description": "BBoldt - Indigo Entrance",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_07"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

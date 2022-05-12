@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_07",
+    "name": "Distorted Disc",
+    "description": "BBoldt - Funky Ninja",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_07"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

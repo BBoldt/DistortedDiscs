@@ -1,0 +1,416 @@
+{
+  "end_01": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:back_in_time",
+        "stream": true
+      }
+    ]
+  },
+  "end_03": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:chill_vibez",
+        "stream": true
+      }
+    ]
+  },
+  "end_04": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:chrono_courier",
+        "stream": true
+      }
+    ]
+  },
+  "end_05": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:duck_dodgers",
+        "stream": true
+      }
+    ]
+  },
+  "end_06": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:electric_knights",
+        "stream": true
+      }
+    ]
+  },
+  "end_07": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:indigo_entrance",
+        "stream": true
+      }
+    ]
+  },
+  "end_08": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:look_deeper",
+        "stream": true
+      }
+    ]
+  },
+  "end_09": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:venus",
+        "stream": true
+      }
+    ]
+  },
+  "end_10": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:ytinrete",
+        "stream": true
+      }
+    ]
+  },
+  "end_02": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:bitbashed",
+        "stream": true
+      }
+    ]
+  },
+  "end_11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:zoom",
+        "stream": true
+      }
+    ]
+  },
+  "nether_01": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:backwards",
+        "stream": true
+      }
+    ]
+  },
+  "nether_02": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:block_city",
+        "stream": true
+      }
+    ]
+  },
+  "nether_03": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:doo_wop_ghosts",
+        "stream": true
+      }
+    ]
+  },
+  "nether_04": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:emergency",
+        "stream": true
+      }
+    ]
+  },
+  "nether_05": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:firewalker",
+        "stream": true
+      }
+    ]
+  },
+  "nether_06": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:march_of_the_undead",
+        "stream": true
+      }
+    ]
+  },
+  "nether_07": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:necromancers_laboratory",
+        "stream": true
+      }
+    ]
+  },
+  "nether_08": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:order_of_the_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "nether_09": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:reverse_the_polarity",
+        "stream": true
+      }
+    ]
+  },
+  "nether_10": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:the_machine",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_01": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:dubtime_5",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_02": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:lane_6",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_03": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:moon",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_04": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:sailing",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_05": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:search",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_06": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:stranded",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_07": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:the_bounce",
+        "stream": true
+      }
+    ]
+  },
+  "ow_01": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:53-x",
+        "stream": true
+      }
+    ]
+  },
+  "ow_02": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:bayou",
+        "stream": true
+      }
+    ]
+  },
+  "ow_03": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:bounce",
+        "stream": true
+      }
+    ]
+  },
+  "ow_04": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:cruisin",
+        "stream": true
+      }
+    ]
+  },
+  "ow_05": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:deflective",
+        "stream": true
+      }
+    ]
+  },
+  "ow_06": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:friendly_fire",
+        "stream": true
+      }
+    ]
+  },
+  "ow_07": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:funky_ninja",
+        "stream": true
+      }
+    ]
+  },
+  "ow_08": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:lean",
+        "stream": true
+      }
+    ]
+  },
+  "ow_09": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:m_paint",
+        "stream": true
+      }
+    ]
+  },
+  "ow_10": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:rook",
+        "stream": true
+      }
+    ]
+  },
+  "ow_11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:scissor_kick",
+        "stream": true
+      }
+    ]
+  },
+  "ow_12": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:tesla",
+        "stream": true
+      }
+    ]
+  },
+  "ow_13": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:the_great_freeze",
+        "stream": true
+      }
+    ]
+  },
+  "ow_14": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:transcendental_fire",
+        "stream": true
+      }
+    ]
+  },
+  "end_12": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:bb-5022",
+        "stream": true
+      }
+    ]
+  },
+  "ow_15": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:awakening",
+        "stream": true
+      }
+    ]
+  },
+  "nether_11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:light",
+        "stream": true
+      }
+    ]
+  },
+  "ocean_08": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "distorted_discs:obversions",
+        "stream": true
+      }
+    ]
+  }
+}

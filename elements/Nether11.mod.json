@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_11",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Light",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_11"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ocean_06",
+    "name": "Damp Distorted Disc",
+    "description": "BBoldt - Stranded",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ocean_06"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

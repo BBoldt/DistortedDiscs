@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_08",
+    "name": "Distorted Disc",
+    "description": "Lean",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_08"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

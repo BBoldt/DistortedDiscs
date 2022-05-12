@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_15",
+    "name": "Distorted Disc",
+    "description": "BBoldt - Awakening",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_15"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

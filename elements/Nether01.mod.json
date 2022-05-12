@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_01",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Backwards",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_01"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

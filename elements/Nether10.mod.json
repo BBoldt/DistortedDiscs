@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_10",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - The Machine",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_10"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

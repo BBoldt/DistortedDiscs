@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_09",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Reverse the Polarity",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_09"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

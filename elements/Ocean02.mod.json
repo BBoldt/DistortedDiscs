@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ocean_02",
+    "name": "Damp Distorted Disc",
+    "description": "BBoldt - Lane 6",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ocean_02"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

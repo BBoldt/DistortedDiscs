@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ocean_05",
+    "name": "Damp Distorted Disc",
+    "description": "BBoldt - Search",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ocean_05"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

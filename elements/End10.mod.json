@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_10",
+    "name": "Interdimensional Distorted Disc",
+    "description": "ytinretE - tdloBB",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_10"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

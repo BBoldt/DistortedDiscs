@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_13",
+    "name": "Distorted Disc",
+    "description": "BBoldt - The Great Freeze",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_13"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,928 @@
+{
+  "mod_elements": [
+    {
+      "name": "End01",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_01"
+    },
+    {
+      "name": "End02",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_02"
+    },
+    {
+      "name": "End03",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_03"
+    },
+    {
+      "name": "End04",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_04"
+    },
+    {
+      "name": "End05",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_05"
+    },
+    {
+      "name": "End06",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_06"
+    },
+    {
+      "name": "End07",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_07"
+    },
+    {
+      "name": "End08",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_08"
+    },
+    {
+      "name": "End09",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_09"
+    },
+    {
+      "name": "End10",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_10"
+    },
+    {
+      "name": "End11",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_11"
+    },
+    {
+      "name": "Nether01",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_01"
+    },
+    {
+      "name": "Nether02",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_02"
+    },
+    {
+      "name": "Nether03",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_03"
+    },
+    {
+      "name": "Nether04",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_04"
+    },
+    {
+      "name": "Nether05",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_05"
+    },
+    {
+      "name": "Nether06",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_06"
+    },
+    {
+      "name": "Nether07",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_07"
+    },
+    {
+      "name": "Nether08",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_08"
+    },
+    {
+      "name": "Nether09",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_09"
+    },
+    {
+      "name": "Nether10",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_10"
+    },
+    {
+      "name": "Ocean01",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_01"
+    },
+    {
+      "name": "Ocean02",
+      "type": "musicdisc",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_02"
+    },
+    {
+      "name": "Ocean03",
+      "type": "musicdisc",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_03"
+    },
+    {
+      "name": "Ocean04",
+      "type": "musicdisc",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_04"
+    },
+    {
+      "name": "Ocean05",
+      "type": "musicdisc",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_05"
+    },
+    {
+      "name": "Ocean06",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_06"
+    },
+    {
+      "name": "Ocean07",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_07"
+    },
+    {
+      "name": "Ow01",
+      "type": "musicdisc",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_01"
+    },
+    {
+      "name": "Ow02",
+      "type": "musicdisc",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_02"
+    },
+    {
+      "name": "Ow03",
+      "type": "musicdisc",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_03"
+    },
+    {
+      "name": "Ow04",
+      "type": "musicdisc",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_04"
+    },
+    {
+      "name": "Ow05",
+      "type": "musicdisc",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_05"
+    },
+    {
+      "name": "Ow06",
+      "type": "musicdisc",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_06"
+    },
+    {
+      "name": "Ow07",
+      "type": "musicdisc",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_07"
+    },
+    {
+      "name": "Ow08",
+      "type": "musicdisc",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_08"
+    },
+    {
+      "name": "Ow09",
+      "type": "musicdisc",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_09"
+    },
+    {
+      "name": "Ow10",
+      "type": "musicdisc",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_10"
+    },
+    {
+      "name": "Ow11",
+      "type": "musicdisc",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_11"
+    },
+    {
+      "name": "Ow12",
+      "type": "musicdisc",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_12"
+    },
+    {
+      "name": "Ow13",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_13"
+    },
+    {
+      "name": "Ow14",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_14"
+    },
+    {
+      "name": "Distorteddiscs",
+      "type": "tab",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distorteddiscs"
+    },
+    {
+      "name": "Ow15",
+      "type": "musicdisc",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ow_15"
+    },
+    {
+      "name": "Nether11",
+      "type": "musicdisc",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_11"
+    },
+    {
+      "name": "End12",
+      "type": "musicdisc",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_12"
+    },
+    {
+      "name": "Ocean08",
+      "type": "musicdisc",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ocean_08"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "end_01",
+      "files": [
+        "back_in_time"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_03",
+      "files": [
+        "chill_vibez"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_04",
+      "files": [
+        "chrono_courier"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_05",
+      "files": [
+        "duck_dodgers"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_06",
+      "files": [
+        "electric_knights"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_07",
+      "files": [
+        "indigo_entrance"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_08",
+      "files": [
+        "look_deeper"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_09",
+      "files": [
+        "venus"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_10",
+      "files": [
+        "ytinrete"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_02",
+      "files": [
+        "bitbashed"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_11",
+      "files": [
+        "zoom"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_01",
+      "files": [
+        "backwards"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_02",
+      "files": [
+        "block_city"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_03",
+      "files": [
+        "doo_wop_ghosts"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_04",
+      "files": [
+        "emergency"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_05",
+      "files": [
+        "firewalker"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_06",
+      "files": [
+        "march_of_the_undead"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_07",
+      "files": [
+        "necromancers_laboratory"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_08",
+      "files": [
+        "order_of_the_dragon"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_09",
+      "files": [
+        "reverse_the_polarity"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_10",
+      "files": [
+        "the_machine"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_01",
+      "files": [
+        "dubtime_5"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_02",
+      "files": [
+        "lane_6"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_03",
+      "files": [
+        "moon"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_04",
+      "files": [
+        "sailing"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_05",
+      "files": [
+        "search"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_06",
+      "files": [
+        "stranded"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_07",
+      "files": [
+        "the_bounce"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_01",
+      "files": [
+        "53-x"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_02",
+      "files": [
+        "bayou"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_03",
+      "files": [
+        "bounce"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_04",
+      "files": [
+        "cruisin"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_05",
+      "files": [
+        "deflective"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_06",
+      "files": [
+        "friendly_fire"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_07",
+      "files": [
+        "funky_ninja"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_08",
+      "files": [
+        "lean"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_09",
+      "files": [
+        "m_paint"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_10",
+      "files": [
+        "rook"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_11",
+      "files": [
+        "scissor_kick"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_12",
+      "files": [
+        "tesla"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_13",
+      "files": [
+        "the_great_freeze"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_14",
+      "files": [
+        "transcendental_fire"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "end_12",
+      "files": [
+        "bb-5022"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ow_15",
+      "files": [
+        "awakening"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nether_11",
+      "files": [
+        "light"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ocean_08",
+      "files": [
+        "obversions"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.distorted_discs.end_11.desc": "BBoldt - Zoom",
+      "item.distorted_discs.nether_01.desc": "BBoldt - Backwards",
+      "item.distorted_discs.nether_11": "Demonic Distorted Disc",
+      "item.distorted_discs.nether_10": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_03.desc": "BBoldt, James Svedka - Bounce",
+      "item.distorted_discs.end_09.desc": "BBoldt - Venus",
+      "item.distorted_discs.end_08.desc": "BBoldt - Look Deeper",
+      "subtitles.ow_15": "",
+      "subtitles.end": "",
+      "item.distorted_discs.ow_04.desc": "BBoldt - Cruisin\u0027",
+      "subtitles.disc_end_ytinrete": "",
+      "subtitles.ow_13": "",
+      "subtitles.ow_14": "",
+      "subtitles.ow_11": "",
+      "item.distorted_discs.end_10.desc": "ytinretE - tdloBB",
+      "subtitles.ow_12": "",
+      "subtitles.ow_10": "",
+      "subtitles.disc_end_chillvibez": "",
+      "item.distorted_discs.nether_03.desc": "BBoldt - Doo Wop Ghosts",
+      "item.distorted_discs.ocean_07.desc": "BBoldt - The Bounce",
+      "subtitles.disc_end_electricknights": "",
+      "item.distorted_discs.ow_06.desc": "BBoldt - Friendly Fire",
+      "item.distorted_discs.ocean_08": "Damp Distorted Disc",
+      "item.distorted_discs.ocean_07": "Damp Distorted Disc",
+      "item.distorted_discs.nether_04.desc": "BBoldt - Emergency",
+      "item.distorted_discs.ocean_04": "Damp Distorted Disc",
+      "subtitles.end_09": "",
+      "item.distorted_discs.ocean_03": "Damp Distorted Disc",
+      "item.distorted_discs.ocean_06": "Damp Distorted Disc",
+      "item.distorted_discs.ocean_05": "Damp Distorted Disc",
+      "item.distorted_discs.ocean_02": "Damp Distorted Disc",
+      "item.distorted_discs.ocean_01": "Damp Distorted Disc",
+      "subtitles.end_12": "",
+      "item.distorted_discs.ocean_06.desc": "BBoldt - Stranded",
+      "item.distorted_discs.ow_01.desc": "BBoldt - 53-X",
+      "item.distorted_discs.ow_07.desc": "BBoldt - Funky Ninja",
+      "subtitles.end_11": "",
+      "subtitles.end_10": "",
+      "item.distorted_discs.end_04.desc": "BBoldt - Chrono Courier",
+      "item.distorted_discs.end_07.desc": "BBoldt - Indigo Entrance",
+      "item.distorted_discs.ow_10.desc": "BBoldt - Rook",
+      "item.distorted_discs.ow_13.desc": "BBoldt - The Great Freeze",
+      "item.distorted_discs.end_01.desc": "BBoldt - Back in Time",
+      "subtitles.disc_end_bitbashed": "",
+      "subtitles.end_02": "",
+      "subtitles.end_01": "",
+      "subtitles.end_04": "",
+      "subtitles.end_03": "",
+      "subtitles.end_06": "",
+      "subtitles.end_05": "",
+      "subtitles.end_08": "",
+      "subtitles.end_07": "",
+      "subtitles.nether_11": "",
+      "item.distorted_discs.nether_10.desc": "BBoldt - The Machine",
+      "subtitles.nether_10": "",
+      "item.distorted_discs.nether_07.desc": "BBoldt - Necromancer\u0027s Laboratory",
+      "subtitles.disc_end_backintime": "",
+      "subtitles.disc_end_indigoentrance": "",
+      "item.distorted_discs.end_03.desc": "BBoldt - Chill Vibez",
+      "item.distorted_discs.ocean_03.desc": "BBoldt - Moon",
+      "item.distorted_discs.ow_11.desc": "BBoldt - Scissor Kick",
+      "subtitles.nether_09": "",
+      "subtitles.nether_08": "",
+      "item.distorted_discs.end_02.desc": "BBoldt - Bitbashed",
+      "subtitles.nether_05": "",
+      "subtitles.nether_04": "",
+      "item.distorted_discs.end_01": "Interdimensional Distorted Disc",
+      "subtitles.nether_07": "",
+      "item.distorted_discs.end_02": "Interdimensional Distorted Disc",
+      "subtitles.nether_06": "",
+      "item.distorted_discs.end_03": "Interdimensional Distorted Disc",
+      "subtitles.nether_01": "",
+      "item.distorted_discs.end_04": "Interdimensional Distorted Disc",
+      "subtitles.disc_end_zoom": "",
+      "item.distorted_discs.end_05": "Interdimensional Distorted Disc",
+      "subtitles.nether_03": "",
+      "item.distorted_discs.end_06": "Interdimensional Distorted Disc",
+      "item.distorted_discs.end_07": "Interdimensional Distorted Disc",
+      "subtitles.nether_02": "",
+      "item.distorted_discs.end_08": "Interdimensional Distorted Disc",
+      "item.distorted_discs.end_09": "Interdimensional Distorted Disc",
+      "item.distorted_discs.ow_12.desc": "BBoldt - Tesla",
+      "item.distorted_discs.nether_11.desc": "BBoldt - Light",
+      "item.distorted_discs.nether_06.desc": "BBoldt - March of the Undead",
+      "subtitles.disc_end_venus": "",
+      "subtitles.disc_end_duckdodgers": "",
+      "item.distorted_discs.end_10": "Interdimensional Distorted Disc",
+      "item.distorted_discs.end_11": "Interdimensional Distorted Disc",
+      "item.distorted_discs.nether_09.desc": "BBoldt - Reverse the Polarity",
+      "item.distorted_discs.end_12": "Interdimensional Distorted Disc",
+      "item.distorted_discs.ocean_01.desc": "BBoldt - Dubtime 5",
+      "item.distorted_discs.ow_09.desc": "M$ Paint",
+      "itemGroup.tabdistorteddiscs": "Distorted Discs",
+      "item.distorted_discs.ocean_04.desc": "BBoldt - Sailing",
+      "item.distorted_discs.ow_12": "Distorted Disc",
+      "item.distorted_discs.ow_13": "Distorted Disc",
+      "item.distorted_discs.ow_14": "Distorted Disc",
+      "item.distorted_discs.ow_15": "Distorted Disc",
+      "item.distorted_discs.ow_14.desc": "BBoldt, JoseJFB, L4ndo - Transcendental Fire",
+      "item.distorted_discs.end_06.desc": "BBoldt - Electric Knights",
+      "subtitles.disc_end_chronocourier": "",
+      "item.distorted_discs.ow_10": "Distorted Disc",
+      "item.distorted_discs.ow_11": "Distorted Disc",
+      "subtitles.ocean_05": "",
+      "subtitles.ocean_04": "",
+      "subtitles.ocean_07": "",
+      "subtitles.ocean_06": "",
+      "item.distorted_discs.ow_15.desc": "BBoldt - Awakening",
+      "subtitles.ocean_08": "",
+      "item.distorted_discs.ow_09": "Distorted Disc",
+      "subtitles.ocean_01": "",
+      "subtitles.disc_end_lookdeeper": "",
+      "subtitles.ocean_03": "",
+      "subtitles.ocean_02": "",
+      "item.distorted_discs.end_05.desc": "BBoldt - Duck Dodgers",
+      "item.distorted_discs.nether_04": "Demonic Distorted Disc",
+      "item.distorted_discs.ocean_02.desc": "BBoldt - Lane 6",
+      "item.distorted_discs.ow_01": "Distorted Disc",
+      "item.distorted_discs.nether_03": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_02": "Distorted Disc",
+      "item.distorted_discs.nether_02": "Demonic Distorted Disc",
+      "item.distorted_discs.ocean_05.desc": "BBoldt - Search",
+      "item.distorted_discs.ow_03": "Distorted Disc",
+      "item.distorted_discs.nether_01": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_04": "Distorted Disc",
+      "item.distorted_discs.nether_08": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_05": "Distorted Disc",
+      "item.distorted_discs.nether_07": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_06": "Distorted Disc",
+      "item.distorted_discs.nether_06": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_07": "Distorted Disc",
+      "item.distorted_discs.nether_05": "Demonic Distorted Disc",
+      "item.distorted_discs.ow_08": "Distorted Disc",
+      "item.distorted_discs.end_12.desc": "BBoldt - BB-5022",
+      "item.distorted_discs.ocean_08.desc": "BBoldt - Obversions",
+      "item.distorted_discs.ow_08.desc": "Lean",
+      "subtitles.ow_08": "",
+      "item.distorted_discs.ow_05.desc": "BBoldt - Deflective",
+      "subtitles.ow_09": "",
+      "subtitles.ow_06": "",
+      "item.distorted_discs.nether_05.desc": "BBoldt - Firewalker",
+      "subtitles.ow_07": "",
+      "item.distorted_discs.ow_02.desc": "BBoldt - Bayou",
+      "subtitles.ow_04": "",
+      "item.distorted_discs.nether_08.desc": "BBoldt - Order of the Dragon",
+      "subtitles.ow_05": "",
+      "subtitles.ow_02": "",
+      "subtitles.ow_03": "",
+      "subtitles.ow_01": "",
+      "item.distorted_discs.nether_09": "Demonic Distorted Disc",
+      "item.distorted_discs.nether_02.desc": "BBoldt - Block City"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "distorted_discs",
+    "modName": "Distorted Discs",
+    "version": "1.0.0",
+    "author": "brand, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.distorteddiscs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200119518
+}

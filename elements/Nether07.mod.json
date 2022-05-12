@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_07",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Necromancer's Laboratory",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_07"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

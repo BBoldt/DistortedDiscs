@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ocean_07",
+    "name": "Damp Distorted Disc",
+    "description": "BBoldt - The Bounce",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ocean_07"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

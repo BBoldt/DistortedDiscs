@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_01",
+    "name": "Distorted Disc",
+    "description": "BBoldt - 53-X",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_01"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

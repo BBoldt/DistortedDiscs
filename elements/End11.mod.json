@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_11",
+    "name": "Interdimensional Distorted Disc",
+    "description": "BBoldt - Zoom",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_11"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

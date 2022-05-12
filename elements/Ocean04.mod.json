@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ocean04",
+    "name": "Damp Distorted Disc",
+    "description": "BBoldt - Sailing",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ocean_04"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

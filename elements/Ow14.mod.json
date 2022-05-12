@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_14",
+    "name": "Distorted Disc",
+    "description": "BBoldt, JoseJFB, L4ndo - Transcendental Fire",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_14"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

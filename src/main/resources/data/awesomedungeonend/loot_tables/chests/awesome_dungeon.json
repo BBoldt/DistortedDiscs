@@ -1,0 +1,72 @@
+{"pools":[{
+            "rolls": {
+                "min": 0,
+                "max": 1
+            },
+            "entries": [
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_01"
+                },
+                {
+                    "type": "item",
+                    "name": "distorted_discs:end_02"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_03"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_04"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_05"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_06"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_07"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_08"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_09"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_10"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_11"
+                },
+				{
+                    "type": "item",
+                    "name": "distorted_discs:end_12"
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:air"
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:air"
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:air"
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:air"
+                }
+            ]
+    },{"entries":[{"name":"minecraft:wolf_spawn_egg","weight":3,"type":"minecraft:item"},{"name":"minecraft:golden_apple","weight":15,"type":"minecraft:item"},{"name":"minecraft:enchanted_golden_apple","weight":2,"type":"minecraft:item"},{"name":"minecraft:gold_ingot","weight":2,"type":"minecraft:item"},{"name":"minecraft:diamond","weight":15,"type":"minecraft:item"},{"name":"minecraft:emerald","weight":15,"type":"minecraft:item"},{"name":"minecraft:cookie","weight":20,"type":"minecraft:item"},{"name":"minecraft:golden_horse_armor","weight":10,"type":"minecraft:item"},{"name":"minecraft:iron_horse_armor","weight":15,"type":"minecraft:item"},{"name":"minecraft:diamond_horse_armor","weight":5,"type":"minecraft:item"},{"name":"minecraft:apple","weight":10,"type":"minecraft:item"}],"rolls":{"min":1,"type":"minecraft:uniform","max":3},"bonus_rolls":0},{"entries":[{"name":"minecraft:iron_ingot","weight":10,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:gold_ingot","weight":5,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:bread","weight":20,"type":"minecraft:item"},{"name":"minecraft:iron_sword","weight":10,"type":"minecraft:item"},{"name":"minecraft:arrow","weight":10,"type":"minecraft:item"},{"name":"minecraft:redstone","weight":15,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:torch","weight":15,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:melon_seeds","weight":10,"type":"minecraft:item","functions":[{"count":{"min":2,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:pumpkin_seeds","weight":10,"type":"minecraft:item","functions":[{"count":{"min":2,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:beetroot_seeds","weight":10,"type":"minecraft:item","functions":[{"count":{"min":2,"type":"minecraft:uniform","max":4},"add":false,"function":"minecraft:set_count"}]}],"rolls":{"min":1,"type":"minecraft:uniform","max":4},"bonus_rolls":0},{"entries":[{"name":"minecraft:bone","weight":10,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":8},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:gunpowder","weight":10,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":8},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:rotten_flesh","weight":10,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":8},"add":false,"function":"minecraft:set_count"}]},{"name":"minecraft:string","weight":10,"type":"minecraft:item","functions":[{"count":{"min":1,"type":"minecraft:uniform","max":8},"add":false,"function":"minecraft:set_count"}]}],"rolls":3,"bonus_rolls":0}],"type":"minecraft:chest"}

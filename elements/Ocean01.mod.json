@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ocean_01",
+    "name": "Damp Distorted Disc",
+    "description": "BBoldt - Dubtime 5",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ocean_01"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

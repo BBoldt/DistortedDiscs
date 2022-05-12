@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_09",
+    "name": "Distorted Disc",
+    "description": "M$ Paint",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_09"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

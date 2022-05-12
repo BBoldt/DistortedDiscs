@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_06",
+    "name": "Distorted Disc",
+    "description": "BBoldt - Friendly Fire",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_06"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

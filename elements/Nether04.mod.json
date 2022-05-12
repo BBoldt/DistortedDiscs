@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_04",
+    "name": "Demonic Distorted Disc",
+    "description": "BBoldt - Emergency",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:nether_04"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

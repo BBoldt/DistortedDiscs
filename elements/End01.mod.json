@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_01",
+    "name": "Interdimensional Distorted Disc",
+    "description": "BBoldt - Back in Time",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_01"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

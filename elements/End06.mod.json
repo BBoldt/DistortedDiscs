@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_06",
+    "name": "Interdimensional Distorted Disc",
+    "description": "BBoldt - Electric Knights",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_06"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

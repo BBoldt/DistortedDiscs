@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_12",
+    "name": "Distorted Disc",
+    "description": "BBoldt - Tesla",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_12"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

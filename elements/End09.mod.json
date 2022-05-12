@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_09",
+    "name": "Interdimensional Distorted Disc",
+    "description": "BBoldt - Venus",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_09"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

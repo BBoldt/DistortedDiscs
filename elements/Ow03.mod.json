@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ow_03",
+    "name": "Distorted Disc",
+    "description": "BBoldt, James Svedka - Bounce",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:ow_03"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

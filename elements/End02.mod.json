@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "end_02",
+    "name": "Interdimensional Distorted Disc",
+    "description": "BBoldt - Bitbashed",
+    "creativeTab": {
+      "value": "CUSTOM:Distorteddiscs"
+    },
+    "music": {
+      "value": "CUSTOM:end_02"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}
